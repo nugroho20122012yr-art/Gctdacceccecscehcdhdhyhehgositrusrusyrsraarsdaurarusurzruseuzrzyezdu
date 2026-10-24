@@ -1,0 +1,6 @@
+{
+  "appName": "Web App",
+  "packageName": "com.example.webapp",
+  "orientation": "auto",
+  "permissions": ["internet", "network_state"]
+}
